@@ -19,7 +19,7 @@ dependencies:
   - lxml
   - bravado
   - beautifulsoup4
-  - ipywidgets>=7.5
+  - ipywidgets=7.5
   - nglview>=3
   - biotite
   - mdanalysis
